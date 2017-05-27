@@ -1,0 +1,12 @@
+data-structures	0	Given the following set of strings, write a function that stores this information.   // /Electronics/Computers/Graphics Cards // /Electronics/Computers/Graphics Cards // /Electronics/Computers/SSDs // /Electronics/Computers/Graphics Cards // /Electronics/Computers/SSDs // /Electronics/TVs // /Electronics/Computers/Graphics Cards // /Electronics/TVs // /Electronics/TVs // /Garden // /Automotive/Parts  Your datastructure should be able to provide information as such: // / = 11 // /Electronics = 9 // /Electronics/Computers = 6 // /Electronics/Computers/Graphics Cards = 4 // /Electronics/TVs = 3 // etc // ["/Electronics/Computers/Graphics Cards", "/Garden"]
+data-structures	0	We have a List of FlightRoute
+data-structures	2	Given two sorted linked lists of integers write an algorithm to merge the two linked lists such that the resulting linked list is in sorted order. You are expected to define the data structure for linked list as well. Analyze the time and space complexity of the merge algorithm.
+data-structures	1	Design a data structure which could perform the following operations in O(1): - Insert(), Delete(), Search(), getRandom()  getRandom() should pick a "random" element from your data structure, and should not be predictable (for instance always picking the "first" element from your DS)
+linked-lists	0	Reverse last 5 nodes of linkedlist. Please let me know if there is any better way. E.g.  Input:    1,2,3,4,5,6,7 Output: 1,2,7,6,5,4,3
+linked-lists	0	Given number k, for Single linked list, skip k nodes and then reverse k nodes, till the end.
+linked-lists	3	Q1.- Written exam (Amazon, Bangalore)  Given a singly link list and a number 'K', swap the Kth node from the start with the Kth node from the last. Check all the edge cases.  Sample Input: 1->2->3->4->5->6->7->8 and K = 3 Sample Output : 1->2->6->4->5->3->7->8  Sample Input: 1->2->3->4->5->6->7->8 and K = 10 Sample Output: print error "LIST IS OF LESSER SIZE".
+linked-lists	1	With a linked list data structure, find if a given string is palindrome or not.
+linux-kernel	0	mention 4 IPCs used in user level process in linux
+linux-kernel	0	how to manage memory in linux kernel?
+linux-kernel	0	How would you handle sleeping or blocking instructions in an Interrupt Service Routine(if unavoidable) or basically if the length of ISR is long?  Ans: Tasklets and Workqueues. PLEASE LET ME KNOW IF THERE ARE ANY OTHER.
+linux-kernel	0	Asked me what happens when a interrupt is received,told the standard answer but he asked me what is contained inside an interrupt handler
